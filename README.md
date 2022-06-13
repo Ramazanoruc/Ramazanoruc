@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ramazanoruc
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python,OpenCV,Tensorflow
+- 🌱 I’m currently learning Python,OpenCV,Tensorflow,C
 - 📫 How to reach me r_oruc02@hotmail.com
