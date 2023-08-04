@@ -4,10 +4,11 @@
 
 I'm Ramazan from Turkey, and I do content on Data analysis and Computer vision. I really enjoy learning languages and frameworks like OpenCV and Python,I also enjoy Data Analysis and data visualization in general.
 
-Skills: Python/ Numpy / Pandas / OpenCv / C
+Skills: Python/ C# / Sql / Sklearn / Pandas / OpenCv
 
-- 🌱 I’m currently learning OpenCV/Pandas 
-- 📫 How to reach me: r_oruc02@hotmail.com 
+- 🌱 I’m currently learning Model-View-Controller(MVC)
+
+- 📫 How to reach me: r.orucc02@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ramazanoruc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ramazan-oru%C3%A7-484921240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ramazanoruc02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ramazanoruccc//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Ramazan_oruc1)  
