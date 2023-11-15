@@ -1,17 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend.</h3>
-- 🔭 I’m currently working on **Recommendation systems**
+<h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend fields.</h3>
+ 
 
-- 👯 I’m looking to collaborate on **.Net devolopers and Data analysis developers**
+-  🔭 I’m currently working on Recommendation systems
+- 👯 I’m looking to collaborate on **.Net developers and Data analysis developers**
 
 - 🌱 I’m currently learning **Design patterns,.Net,Ml**
+
 
 - 💬 Ask me about **Python and C#**
 
 - 📫 How to reach me **r_oruc02@gmail.com**
   
-- 👨‍💻 All of my projects are available at **bit.ly/3rVHYWd**
+- 👨‍💻 All of my projects are available at  **bit.ly/3rVHYWd**
   
 - 📄 Know about my experiences **https://www.linkedin.com/in/ramazan-oru%C3%A7-484921240/**
 
