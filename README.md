@@ -2,11 +2,17 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend.</h3>
 - 🔭 I’m currently working on **Recommendation systems**
+
 - 👯 I’m looking to collaborate on **.Net devolopers and Data analysis developers**
+
 - 🌱 I’m currently learning **Design patterns,.Net,Ml**
+
 - 💬 Ask me about **Python and C#**
+
 - 📫 How to reach me **r_oruc02@gmail.com**
+  
 - 👨‍💻 All of my projects are available at **bit.ly/3rVHYWd**
+  
 - 📄 Know about my experiences **https://www.linkedin.com/in/ramazan-oru%C3%A7-484921240/**
 
 <div> <a href="https://www.linkedin.com/in/ramazanoruc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
