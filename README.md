@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend.</h3>
 - 🔭 I’m currently working on **Recommendation systems**
-- 👯 I’m looking to collaborate on **.Net developers and Data analysis developers**
+- 👯 I’m looking to collaborate on **.Net devolopers and Data analysis developers**
 - 🌱 I’m currently learning **Design patterns,.Net,Ml**
 - 💬 Ask me about **Python and C#**
 - 📫 How to reach me **r_oruc02@gmail.com**
