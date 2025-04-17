@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend fields.</h3>
+<h3 align="center">I like to do projects in the fields of Data Analysis, Machine Learning,Computer Vision,Backend Fields and Oracle</h3>
  
 
 - 🔭 I'm currently working as a Jr.Database/Oracle developer in a private company.
