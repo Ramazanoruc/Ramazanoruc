@@ -3,13 +3,13 @@
 <h3 align="center">I like to do projects in the fields of data analysis, machine learning, computer vision and backend fields.</h3>
  
 
--  🔭 I’m currently working on Recommendation systems
-- 👯 I’m looking to collaborate on **.Net developers and Data analysis developers**
+-  🔭 I'm currently working as a Jr.Database/Oracle developer in a private company.
+- 👯 I’m looking to collaborate on Oracle developers and Data analysis developers**
 
-- 🌱 I’m currently learning **Design patterns,.Net,Ml**
+- 🌱 I’m currently learning **Artificial Neural Networks,Oracle**
 
 
-- 💬 Ask me about **Python and C#**
+- 💬 Ask me about **Python,C# and PlSQL**
 
 - 📫 How to reach me **r_oruc02@gmail.com**
   
