@@ -4,7 +4,7 @@
  
 
 - 🔭 I'm currently working as a Jr.Database/Oracle developer in a private company.
-- 👯 I’m looking to collaborate on Oracle developers and AI developers**
+- 👯 I’m looking to collaborate on **Oracle developers and AI developers**
 
 - 🌱 I’m currently learning **Artificial Neural Networks and Oracle**
 
