@@ -2,7 +2,7 @@
 
 ##  About Me
 
-Software Engineer with experience in Oracle ERP systems, database development, backend applications, and machine learning projects.
+Software Developer with experience in Oracle ERP systems, database development, backend applications, and machine learning projects.
 
 I specialize in:
 
