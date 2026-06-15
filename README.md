@@ -48,14 +48,6 @@ Currently working on enterprise software solutions involving Oracle technologies
 - Data Analytics
 - Backend Architecture
 
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramazanoruc&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramazanoruclayout=compact&theme=tokyonight)
-
-
 ##  Currently Learning
 
 - Advanced Machine Learning
