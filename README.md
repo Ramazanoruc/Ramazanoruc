@@ -15,7 +15,8 @@ I specialize in:
 
 Currently working on enterprise software solutions involving Oracle technologies while continuously improving my skills in AI and Data Science.
 
----
+##  Connect With Me
+- Email: r.orucc02@gmail.com
 
 ##  Tech Stack
 
