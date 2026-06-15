@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ramazan Oruç
 
-## 🚀 About Me
+##  About Me
 
 Software Engineer with experience in Oracle ERP systems, database development, backend applications, and machine learning projects.
 
@@ -17,7 +17,7 @@ Currently working on enterprise software solutions involving Oracle technologies
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,9 +38,7 @@ Currently working on enterprise software solutions involving Oracle technologies
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
----
-
-## 📌 Professional Interests
+##  Professional Interests
 
 - Enterprise Software Development
 - Oracle ERP Solutions
@@ -50,33 +48,15 @@ Currently working on enterprise software solutions involving Oracle technologies
 - Data Analytics
 - Backend Architecture
 
----
 
-## 🔥 Featured Projects
+##  GitHub Stats
 
-### Oracle EBS Custom Development
-Developed custom packages, procedures, reports, Oracle Forms and enterprise integrations within Oracle EBS environments.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramazanoruc&show_icons=true&theme=tokyonight)
 
-### E-Invoice Integration Platform
-Worked on XML-based invoice generation, PDF production, email automation, and ERP integration processes.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramazanoruclayout=compact&theme=tokyonight)
 
-### Machine Learning Applications
-Built predictive models using TensorFlow and Python for data analysis and intelligent decision-making systems.
 
-### FastAPI Prediction Service
-Integrated machine learning models with FastAPI services to create scalable prediction APIs.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced Machine Learning
 - Large Language Models (LLMs)
@@ -84,13 +64,5 @@ Integrated machine learning models with FastAPI services to create scalable pred
 - MLOps
 - Cloud Technologies
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourmail@example.com
-
----
 
 ⭐ Always open to collaborating on Oracle, Python, AI, and Data Engineering projects.
